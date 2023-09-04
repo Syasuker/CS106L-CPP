@@ -1,0 +1,9 @@
+# ninja log v5
+4	673	7153264196932244	CMakeFiles/chapter4.dir/main.cpp.obj	3d57627daf554426
+669	812	7153264116490940	chapter4.exe	57c5e88cb62a3328
+11	817	7152620286062793	CMakeFiles/chapter4.dir/strutils.cpp.obj	951087291742886e
+11	687	7153265751272480	CMakeFiles/chapter4.dir/mathUtils.cpp.obj	1a044f6cab6a8f5
+3	722	7153265751637296	CMakeFiles/chapter4.dir/main.cpp.obj	3d57627daf554426
+722	864	7153265752979152	chapter4.exe	e28138ad3ab8d40c
+3	680	7153265981062821	CMakeFiles/chapter4.dir/main.cpp.obj	3d57627daf554426
+680	826	7153265982470621	chapter4.exe	e28138ad3ab8d40c

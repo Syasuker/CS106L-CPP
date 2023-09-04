@@ -1,0 +1,14 @@
+# ninja log v5
+12	134	7153383838013014	CMakeFiles/chapter5.dir/myStreams.cpp.obj	d47d8bada99fe0b1
+1	1228	7153383848956638	CMakeFiles/chapter5.dir/main.cpp.obj	5bbe0de6fcb7e337
+4	699	7153384092301770	CMakeFiles/chapter5.dir/main1_GetInteger.cpp.obj	2dca93fe8437cef1
+1	207	7153490079953824	build.ninja	f7b0bd485bf2f48
+1	1092	7153490091279075	CMakeFiles/chapter5.dir/myStreams.cpp.obj	d47d8bada99fe0b1
+8	1298	7153490093349200	CMakeFiles/chapter5.dir/main2_vector.cpp.obj	f51fc5e0c6942672
+1298	1455	7153490094849537	chapter5.exe	95230ee98e493772
+6	939	7153633665878989	CMakeFiles/chapter5.dir/main2_vector.cpp.obj	f51fc5e0c6942672
+942	1198	7153633668411065	chapter5.exe	95230ee98e493772
+4	884	7153635899088802	CMakeFiles/chapter5.dir/main2_vector.cpp.obj	f51fc5e0c6942672
+884	1064	7153635900822180	chapter5.exe	95230ee98e493772
+4	892	7153636023203907	CMakeFiles/chapter5.dir/main2_vector.cpp.obj	f51fc5e0c6942672
+893	1079	7153636024992941	chapter5.exe	95230ee98e493772
