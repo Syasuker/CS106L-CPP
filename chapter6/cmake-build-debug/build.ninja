@@ -73,6 +73,12 @@ build CMakeFiles/chapter6.dir/main5_keywords.cpp.obj: CXX_COMPILER__chapter6_uns
   OBJECT_DIR = CMakeFiles\chapter6.dir
   OBJECT_FILE_DIR = CMakeFiles\chapter6.dir
 
+build CMakeFiles/chapter6.dir/main6_DFA.cpp.obj: CXX_COMPILER__chapter6_unscanned_Debug C$:/Users/zhuda/CLionProjects/chapter6/main6_DFA.cpp || cmake_object_order_depends_target_chapter6
+  DEP_FILE = CMakeFiles\chapter6.dir\main6_DFA.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\chapter6.dir
+  OBJECT_FILE_DIR = CMakeFiles\chapter6.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target chapter6
@@ -81,7 +87,7 @@ build CMakeFiles/chapter6.dir/main5_keywords.cpp.obj: CXX_COMPILER__chapter6_uns
 #############################################
 # Link the executable chapter6.exe
 
-build chapter6.exe: CXX_EXECUTABLE_LINKER__chapter6_Debug CMakeFiles/chapter6.dir/main.cpp.obj CMakeFiles/chapter6.dir/main3_map.cpp.obj CMakeFiles/chapter6.dir/main4_map2.cpp.obj CMakeFiles/chapter6.dir/main5_keywords.cpp.obj
+build chapter6.exe: CXX_EXECUTABLE_LINKER__chapter6_Debug CMakeFiles/chapter6.dir/main.cpp.obj CMakeFiles/chapter6.dir/main3_map.cpp.obj CMakeFiles/chapter6.dir/main4_map2.cpp.obj CMakeFiles/chapter6.dir/main5_keywords.cpp.obj CMakeFiles/chapter6.dir/main6_DFA.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\chapter6.dir
