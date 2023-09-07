@@ -1,3 +1,0 @@
-C:/Users/zhuda/CLionProjects/chapter4/cmake-build-debug/CMakeFiles/chapter4.dir
-C:/Users/zhuda/CLionProjects/chapter4/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/zhuda/CLionProjects/chapter4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
