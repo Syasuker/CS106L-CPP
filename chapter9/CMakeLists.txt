@@ -4,8 +4,5 @@ project(chapter9)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(chapter9 main.cpp
-        main10_CS106B-X_Map.cpp
-        main11_MemberInitializerLists.cpp
-        main12_RationalNumber.cpp
-        main13_MultipleConstructors.cpp
+        main19.cpp
 )
